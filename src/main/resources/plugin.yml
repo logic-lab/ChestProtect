@@ -4,3 +4,6 @@ version: "${project.version}"
 author: "Shigeyuki Ohsumi"
 description: "This is a plugin to protect chests. It provides private settings and group settings."
 
+commands:
+  chestprotect:
+    description: Require sub-command. Sub-command is add, remove and list.

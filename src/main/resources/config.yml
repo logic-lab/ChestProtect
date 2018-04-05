@@ -1,0 +1,9 @@
+
+mysql:
+  server: localhost
+  port: 3306
+  database: minecraft
+  table_prefix: chestprotect_
+  user: root
+  password: ""
+
